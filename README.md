@@ -1,6 +1,6 @@
-한국과학기술연구원 인턴 및 빅데이터 연합동아리 투빅스 활동에 대한 레포지토리는 비공개입니다.
+인턴 및 동아리 활동에 대한 레포지토리는 비공개입니다.
 
-![image](https://user-images.githubusercontent.com/56261032/144738488-73ecfd11-20cc-4548-9d43-81b2d4fe5e04.png)
+<!-- ![image](https://user-images.githubusercontent.com/56261032/144738488-73ecfd11-20cc-4548-9d43-81b2d4fe5e04.png) -->
 
 <!--
 **yoonene/yoonene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
