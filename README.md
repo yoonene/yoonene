@@ -65,9 +65,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Slack&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Slack&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=Slack&logoColor=white"/></a>
 
