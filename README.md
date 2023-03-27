@@ -74,7 +74,8 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=Weights&Biases&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/></a>
 
 
 <br/>
