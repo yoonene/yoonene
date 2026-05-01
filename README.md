@@ -1,47 +1,68 @@
-<div align="center">
-  
-## ⚒ Skills ⚒
+# Hi, I'm Yoonhye Kim
 
-#### Languages
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
+AI Engineer specializing in LLM systems, RAG pipelines, and search & retrieval.
 
+I build production-scale AI systems combining large language models, vector search, and efficient model serving.  
+Experienced in optimizing retrieval quality and latency in real-world environments with tens of thousands of users.
 
-#### LLM / Retrieval
-<img src="https://img.shields.io/badge/LLMs-f5b811?style=flat-square"/></a>
-<img src="https://img.shields.io/badge/LoRA/PEFT-f5b811?style=flat-square"/></a>
-<img src="https://img.shields.io/badge/VLM-f5b811?style=flat-square"/></a>
+---
 
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/></a>
-<img src="https://img.shields.io/badge/Vector Search-8A2BE2?style=flat-square"/></a>
-<img src="https://img.shields.io/badge/Reranker & Embedding training-8A2BE2?style=flat-square"/></a>
-<img src="https://img.shields.io/badge/Retrieval Evaluation-8A2BE2?style=flat-square"/></a>
+## 🔧 Core Focus
 
-#### Frameworks
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=langchain&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/></a>
+- LLM Systems & RAG Pipelines
+- Search & Retrieval (Vector + Hybrid)
+- Embeddings & Reranking
+- Model Serving (vLLM, TGI, TEI)
+- Retrieval Evaluation & Optimization
 
-#### Serving
-<img src="https://img.shields.io/badge/vLLM-7B2CBF?style=flat-square&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TGI-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TEI-FF9D00?style=flat-square&logo=huggingface&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FastAPI-32a643?style=flat-square&logo=FastAPI&logoColor=white"/></a>
+---
 
-#### Databases
-<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=Milvus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-E6B91E?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
+## 🚀 Selected Work
 
-#### Infrastructure
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+### Production RAG Systems (Game AI Platform)
+- Improved latency by **2×** and reduced serving cost by **60%**
+- Designed retrieval-heavy pipeline serving **30K+ users**
+- Optimized embedding and reranker models using TEI on H100 MIG
 
-#### Experimentation
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
-<img src="https://img.shields.io/badge/RAGAS-6A5ACD?style=flat-square&logoColor=white"/>
+### Retrieval Optimization & Evaluation
+- Built internal evaluation datasets and benchmarking system
+- Improved search quality via query rewriting and chunking strategies
+- Implemented RAG evaluation platform using RAGAS
+
+### LLM Fine-tuning & Serving
+- Fine-tuned 3B LLM with LoRA (500K–1M samples)
+- Reduced latency from ~8s → ~1s by replacing external APIs
+- Served models using vLLM on AWS H100
+
+### Stateful AI Character System
+- Built long-term memory system using vector + relational storage
+- Supported multi-user sessions with dynamic persona updates
+- Filed as a patent
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**: 
+Python · SQL
+
+**AI / ML**: 
+PyTorch · Transformers · LoRA/PEFT · Embeddings · RAG · VLM
+
+**Retrieval / Search**: 
+Milvus · Elasticsearch · Hybrid Search · Reranking · IR Evaluation
+
+**Serving**: 
+vLLM · TGI · TEI · FastAPI
+
+**Data / Infra**: 
+PostgreSQL · MongoDB · Redis · AWS · Docker · Kubernetes · Airflow
+
+**Experimentation**: 
+Weights & Biases · RAGAS
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/yoonhye-kim-271a6a216/
+- Email: neune21153@gmail.com
